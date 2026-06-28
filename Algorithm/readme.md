@@ -1,0 +1,26 @@
+
+- [ ] Binary Search
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Heap Sort
+- [x] Kadane's Algorithm
+- [ ] Sliding Window
+- [ ] Two Pointer Technique
+- [ ] Prefix Sum
+- [ ] BFS
+- [ ] DFS
+- [ ] Dijkstra's Algorithm
+- [ ] Bellman-Ford Algorithm
+- [ ] Floyd-Warshall Algorithm
+- [ ] Prim's Algorithm
+- [ ] Kruskal's Algorithm
+- [ ] Topological Sort
+- [ ] Union-Find (DSU)
+- [ ] Ford-Fulkerson Algorithm
+- [ ] KMP Algorithm
+- [ ] Rabin-Karp Algorithm
+- [ ] Trie
+- [ ] 0/1 Knapsack
+- [ ] Longest Common Subsequence
+- [ ] Binary Exponentiation
+- [ ] Sieve of Eratosthenes
